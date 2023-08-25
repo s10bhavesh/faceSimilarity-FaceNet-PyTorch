@@ -7,4 +7,8 @@ pip install facenet-pytorch
 
 ```
 
+## Steps:
+- Clone the repo and install facenet-pytorch
+- Load our modules and data
+- Perfom (Multi-task Cascaded Convolutional Networks) MTCNN facial recognition
 
