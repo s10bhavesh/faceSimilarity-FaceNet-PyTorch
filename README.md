@@ -1,4 +1,4 @@
-# FaceSimilarity_FaceNet_PyTorch
+# Face Similarity with FaceNet Model using PyTorch
 
 ## dependencies:
 ```
@@ -6,3 +6,5 @@
 pip install facenet-pytorch
 
 ```
+
+
